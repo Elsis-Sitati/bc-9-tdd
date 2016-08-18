@@ -25,7 +25,7 @@ class MySumTests(unittest.TestCase):
 		Assert throwig of exceptions when it is
 		a non number
 		'''
-	self.assertEqual(my_sum('d','e'),"invalid")
+		self.assertEqual(my_sum('d','e'),"invalid")
 
 
 
