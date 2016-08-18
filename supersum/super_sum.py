@@ -25,4 +25,8 @@ def super_sum(*args):
 			else:
 				return 'you entered a non integer item'
 	# now find the sum of all elements
-	sum_total = total_num + list_total 
+	sum_total = total_num + list_total
+	return sum_total
+
+
+  
